@@ -5,7 +5,8 @@
 ,Zorunlu alan hassasiyeti
 ,Seçenek inputu verilerinin eşleşme hassasiyeti
 ,Checkbox kontrolü
-,Login sayfasını formiğin field bölümünü kullanarak yaptım(CustomInput,CustomSelect,CustomInvalied),Sayfalar arası geçiş için react-router'ı kullandım
+,Login sayfasını formiğin field bölümünü kullanarak yaptım(CustomInput,CustomSelect,CustomInvalied)
+,Sayfalar arası geçiş için react-router'ı kullandım
 
 ![Ekran görüntüsü 2023-10-19 131640](https://github.com/mirackurnaz/react-Formik-CustomFormik/assets/78266140/180463d8-8bc2-42bd-ba72-51950a4dc272)
 ![Ekran görüntüsü 2023-10-19 131657](https://github.com/mirackurnaz/react-Formik-CustomFormik/assets/78266140/fa5c9ac3-ecca-4b31-afdf-b9fa6ed0e971)
