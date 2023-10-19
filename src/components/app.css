@@ -1,0 +1,88 @@
+
+
+.formDiv{
+    width: 500px;
+  
+}
+.label{
+    font-size: 19px;
+    margin-top: 10px;
+}
+
+.inputFormDiv{
+
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+    margin-top: 10px;
+    color: white;
+  
+   
+}
+.input{
+    border-radius: 10px;
+    border: 1px solid white;
+    height: 35px;
+    margin-top: 10px;
+}
+.buttonSingup{
+    margin-top: 30px;
+    width: 500px;
+    height:35px;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    border: 1px solid green;
+    font-size: 18px;
+}
+.inputError{
+   border-color: #fc8181;
+   border-radius: 10px;
+    height: 35px;
+    margin-top: 10px;
+
+}
+.error{
+color: #fc8181;
+text-align: left;
+}
+.inputErrorLabel{
+    margin-top: 0px;
+    font-size: 19px;
+}
+
+
+    .IsAcceptedDiv{
+        display: flex;
+        justify-content: start;
+        align-items: center
+    }
+    .inputCheckbox{
+    
+        margin-top: 20px;
+        width: 15px;
+        height: 15px;
+    }
+    .inputCheckboxSpan{
+        margin-top: 20px;
+        margin-left: 5px;
+    }
+    .buttonLogin{
+        margin-top: 30px;
+        width: 500px;
+        height:30px;
+        background-color: green;
+        color: white;
+        border-radius: 20px;
+        border: 1px solid green;
+        font-size: 16px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .linkLogin{
+        display: flex;
+        justify-content: start;
+        margin-left: 5px;
+        margin-top: 10px;
+        text-decoration: none;
+        
+    }
