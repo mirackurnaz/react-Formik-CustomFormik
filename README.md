@@ -1,4 +1,12 @@
 # react-Formik-CustomFormik
+-Şifre en az 5 karakterli ve büyükharf,küçük harf,sayı bulundurmak zorundadır
+-Email hassasiyeti
+-Şifrelerin uyuşma hassasiyeti
+-Zorunlu alan hassasiyeti
+-Seçenek inputu verilerinin eşleşme hassasiyeti
+-Checkbox kontrolü
+-Login sayfasını formiğin field bölümünü kullanarak yaptım(CustomInput,CustomSelect,CustomInvalied)
+
 ![Ekran görüntüsü 2023-10-19 131640](https://github.com/mirackurnaz/react-Formik-CustomFormik/assets/78266140/180463d8-8bc2-42bd-ba72-51950a4dc272)
 ![Ekran görüntüsü 2023-10-19 131657](https://github.com/mirackurnaz/react-Formik-CustomFormik/assets/78266140/fa5c9ac3-ecca-4b31-afdf-b9fa6ed0e971)
 ![Ekran görüntüsü 2023-10-19 131742](https://github.com/mirackurnaz/react-Formik-CustomFormik/assets/78266140/309c3e7a-1e53-407f-9049-3650e9f845d4)
